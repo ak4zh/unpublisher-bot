@@ -8,7 +8,7 @@
 git clone https://github.com/Ak4zh/unpublisher-bot
 ```
 2. Change directory to the project directory ```cd unpublisher-bot```
-3. Install the requirements ```pip install requirements.txt```
+3. Install the requirements ```pip install -r requirements.txt```
 
 4. Create a new file ```.env``` inside the project directory and add following data
 ```
